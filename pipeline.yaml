@@ -4,7 +4,7 @@ Parameters:
   GitHubOwner:
     Type: String
     AllowedPattern: '[A-Za-z0-9-]+'
-    Default: quick-refs
+    Default: qf-devops
   GitHubRepository:
     Type: String
     AllowedPattern: '[A-Za-z0-9-]+'
